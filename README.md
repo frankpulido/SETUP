@@ -52,7 +52,7 @@ composer global require laravel/installer
 
 Run to create each project (in Terminal from the folder where the project is going to be stored) :
 
-laravel new <project name>
+laravel new project_name
 
 
 ## git kraken
