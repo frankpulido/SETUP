@@ -55,4 +55,30 @@ Run to create each project (in Terminal from the folder where the project is goi
 laravel new project_name
 
 
+## mongodb
+https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/
+
+First, open an account in the website of Mongo Atlas
+
+Install MongoDB Community Edition, use link above.
+
+To start Mongo DB as a macOS service (version in Mac MINI) :
+
+brew services start mongodb-community@8.0
+
+To stop a mongod running as a macOS service (version in Mac Mini) :
+
+brew services stop mongodb-community@8.0
+
+THIS IS THE RIGHT ONE I GOT IN TERMINAL AFTER INSTALLATION : To start mongodb/brew/mongodb-community and restart at login :
+
+brew services start mongodb/brew/mongodb-community
+
+Install Mongo DB Compass GUI (Graphic User Interface)
+
+brew install mongodb-compass
+
+Install Mongo DB Extension in VS Code
+
+
 ## git kraken
