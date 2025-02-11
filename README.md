@@ -8,9 +8,12 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generati
 
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
+
 ### xampp
 
+
 ### xdebug
+
 
 ### vscode
 
@@ -41,10 +44,15 @@ composer -v
 
 ### php unit
 
+
 ### laravel
 To Install Globally, run from Terminal :
+
 composer global require laravel/installer
+
 Run to create each project (in Terminal from the folder where the project is going to be stored) :
+
 laravel new <project name>
+
 
 ### git kraken
