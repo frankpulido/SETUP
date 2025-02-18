@@ -62,6 +62,7 @@ First, open an account in the website of Mongo Atlas
 
 Install MongoDB Community Edition, use link above.
 
+
 To start Mongo DB as a macOS service (version in Mac MINI) :
 
 brew services start mongodb-community@8.0
@@ -69,6 +70,16 @@ brew services start mongodb-community@8.0
 To stop a mongod running as a macOS service (version in Mac Mini) :
 
 brew services stop mongodb-community@8.0
+
+
+To start Mongo DB as a macOS service (version in iMac) :
+
+brew services start mongodb-community@7.0
+
+To stop a mongod running as a macOS service (version in iMac) :
+
+brew services stop mongodb-community@7.0
+
 
 THIS IS THE RIGHT ONE I GOT IN TERMINAL AFTER INSTALLATION : To start mongodb/brew/mongodb-community and restart at login :
 
